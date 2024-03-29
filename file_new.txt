@@ -1,1 +1,1 @@
-creating new text file for learning merge conflict in main branch
+file_new created in new feature branch,merge confluct scenario testing
