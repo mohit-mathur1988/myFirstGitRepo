@@ -1,0 +1,1 @@
+file_new created in new feature branch,merge confluct scenario testing
